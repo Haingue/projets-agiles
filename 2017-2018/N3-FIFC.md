@@ -25,35 +25,27 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 2 : IUT Simulator (iut-life)
+# Équipe 2 : Nom du projet
 
-Ce jeu simule la vie de l'IUT. Essayez de survivre 2 semaines dans cet environnement difficile 
+Description / proposition de valeur unique
 
 ## Équipe
 
-* BADEY Arthur
-* LEWANDOSKI Baptiste
-* PASSARD Martin
-* JORDAO Ninon
-* AGNERAY Quentin
-* LUCAS Valentin
+* Nom Prénom
+* ...
 
 ## Resources
 
-* git : https://git-iut.univ-lille1.fr/passardm/iut-Life
+* git : 
 
-# Équipe 3 : Gestion d'Hôtel
+# Équipe 3 : Nom du projet
 
-Creation d'un logiciel de gestion d'hotel pour pouvoir reserver une chambre pour le client, et gérer les réservations pour l'admin.
+Description / proposition de valeur unique
 
 ## Équipe
 
 * Lucas Fresiers
-* Alexandre AZZARO
-* Clement BOURDIER
-* Juliette PARISSEAUX
-* Malaury BOUDON
-* Valentin VERSPEEK
+* ...
 
 ## Resources
 
@@ -107,16 +99,20 @@ Description / proposition de valeur unique
 
 # Équipe 7 : Nom du projet
 
-Description / proposition de valeur unique
+Simulation d'un éco system aquatique.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Haingue Fabien
+* Jérôme Philippart
+* Thibaut Chauchoy
+* Marin Dubuis
+* Meurin Dorian
+* HUYGHE Antoine
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/hainguef/Agile-groupe7.git
 
 # Équipe 8 : Nom du projet
 
